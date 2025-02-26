@@ -269,3 +269,16 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+---
+
+## Wilson et al. (2017) "Good enough practices in scientific computing"
+
+Computers are essential in science, yet many researchers lack basic computational skills, leading to lost data and inefficiencies. Just as lab work requires structured documentation, computational research needs organized data, clear workflows, and reproducibility.
+
+"Good Enough Practices in Scientific Computing" offers practical guidelines for researchers of any skill level, covering data management, programming, project organization, and collaboration. Drawn from real-world experience, these simple strategies help streamline research, improve transparency, and make scientific work more efficient and reliable.
+
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
+
+> Contributor: Jess
+
+---
