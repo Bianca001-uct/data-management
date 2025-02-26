@@ -269,3 +269,15 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+---
+
+## Wildlife biology, big data, and reproducible research, (Lewis, Van der Wal and Fifield, 2018).
+
+This paper reviews the current state of reproducible research and data management in the field of wildlife biology. Lewis et al. (2018) share the merits of reproducible research and take you through how the type and scale of data have changed in the field of wildlife biology in the last few years. This change, according to them, necessitates a shift to increased reproducibility and more rigorous data management. They provide various case studies showing how it can be implemented (which provides tangible examples to wrap your head around the concept). They also suggest various courses of action that would allow reproducibility and data management to be mainstream in the field, including education, usage of freely available software such as GitHub and willingness to share data. Finally, they also mention potential limitations to this form of research management in the field of wildlife biology specifically, but suggest that a broader shift to ensuring reproducible research will be holistically beneficial to the field.
+
+Link: https://doi.org/10.1002/wsb.847
+
+> Contributor: Connor
+
+---
+
