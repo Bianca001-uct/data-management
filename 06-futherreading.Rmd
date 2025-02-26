@@ -269,3 +269,13 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+---
+## A beginners guide to producing reproducible research(Alston and Rick,2021)
+
+
+
+References
+Alston, J.M. and Rick, J.A., 2021. A beginner’s guide to conducting reproducible research. Bulletin of the Ecological Society of America, 102(2), pp.1-14.
+
+> Contributor: Kauthar
+
