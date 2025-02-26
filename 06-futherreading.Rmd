@@ -269,3 +269,13 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+---
+
+## What Makes Science True? | NOVA (https://youtu.be/NGFO0kdbZmk?si=3gTPU4O113mimgwD)
+
+[Youtube Video uploaded by "NOVA PBS Official", produced by "Dakin Henderson and Kelly Thomson"]
+This video goes into the reasons for and the effects of the 'reproducibility crisis', where many (exploratory) studies are taken as fact without there having been an attempt to reproduce the study - this is in part as a result of exploratory studies being funded and not reproducibilty studies. It has been found that many drugs fail when they get to the clinical trial phase and this is thought to be due to a lack of proper validation of the studies before reaching that point - suggesting why it is important for there to be repeated testing in the initial research into the drug. Lastly, although most data on study replicability has been in psyclology and biomedical sciences, it is known that it is a far more widespread issue.
+
+> Contributor: Catharina
+
+---
