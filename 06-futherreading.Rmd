@@ -278,7 +278,7 @@ The “Replication crisis” is a research barrier that hinders the ability of s
 References
 Alston, J.M. and Rick, J.A., 2021. A beginner’s guide to conducting reproducible research. Bulletin of the Ecological Society of America, 102(2), pp.1-14.
 
-> Contributor: Kauthar
+> Contributor: Kauthar Ismail
 
 ---
 
