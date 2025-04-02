@@ -270,6 +270,7 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 > Contributor: Arwenn
 
 ---
+
 ## A beginners guide to producing reproducible research (Alston and Rick,2021)
 
 The “Replication crisis” is a research barrier that hinders the ability of scientific results being reproduced. This paper emphasises why we should strive towards reproducible research; the possible challenges and the continuous steps we can take to produce reproducible research. Reproducible research allows for quicker and easier analysis without the need to start from baseline. It also indicates transparency and trustworthiness to reviewers and scientific peers ,thus increasing citations thereof. This encourages follow-up studies and easy correction of mistakes. However complex biological systems might be more difficult to reproduce, and propriety programs prevent global accessibility. Historical software and hardware may also hinder the ability to access data.
@@ -281,4 +282,37 @@ Alston, J.M. and Rick, J.A., 2021. A beginner’s guide to conducting reproducib
 > Contributor: Kauthar Ismail
 
 ---
+
+## Research Culture is Broken; Open Science can Fix It | Rachael Ainsworth | TEDxMacclesfield
+
+Open science as a movement is a growing practice in which science is done in such a way that research is openly shared with the public and allows for collaboration, contribution and access to the latest findings and methods. This TED talk dives into some of the current downfalls of our modern research culture and show how open science could be the key to mitigating these problems.
+
+Link: https://youtu.be/c-bemNZ-IqA
+
+> Contributor: Timothy Muthama
+
+---
+
+## Wilson et al. (2017) "Good enough practices in scientific computing"
+
+Computers are essential in science, yet many researchers lack basic computational skills, leading to lost data and inefficiencies. Just as lab work requires structured documentation, computational research needs organized data, clear workflows, and reproducibility.
+
+"Good Enough Practices in Scientific Computing" offers practical guidelines for researchers of any skill level, covering data management, programming, project organization, and collaboration. Drawn from real-world experience, these simple strategies help streamline research, improve transparency, and make scientific work more efficient and reliable.
+
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
+
+> Contributor: Jess
+
+---
+
+## Wildlife biology, big data, and reproducible research, (Lewis, Van der Wal and Fifield, 2018).
+
+This paper reviews the current state of reproducible research and data management in the field of wildlife biology. Lewis et al. (2018) share the merits of reproducible research and take you through how the type and scale of data have changed in the field of wildlife biology in the last few years. This change, according to them, necessitates a shift to increased reproducibility and more rigorous data management. They provide various case studies showing how it can be implemented (which provides tangible examples to wrap your head around the concept). They also suggest various courses of action that would allow reproducibility and data management to be mainstream in the field, including education, usage of freely available software such as GitHub and willingness to share data. Finally, they also mention potential limitations to this form of research management in the field of wildlife biology specifically, but suggest that a broader shift to ensuring reproducible research will be holistically beneficial to the field.
+
+Link: https://doi.org/10.1002/wsb.847
+
+> Contributor: Connor
+
+---
+
 
