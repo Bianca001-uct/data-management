@@ -271,10 +271,13 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 ---
 
-## Replicability is not Reproducibility: Nor is it Good Science (Drummond, 2009)
+## Wildlife biology, big data, and reproducible research, (Lewis, Van der Wal and Fifield, 2018).
 
-The paper by Drummond (2009) argues that reproducibility and replicability are not the same and that replicability has been incorrectly referred to as reproducibility in literature. He states that reproducibility requires a change in methods or conditions. The results of the preceding research can then be corroborated and accepted by the scientific community if the results remain consistent with the changes.  In contrast, replicability avoids change and occurs when a study is reproduced exactly. Therefore, the idea that scientists should submit all necessary experimental artifacts needed to generate the results, with their paper, should be more appropriately referred to as replicability. Using the example of research on whether the speed of light is finite, Drummond explains that acquiring the full code or assuming that reproducibility should be exact will lead to a narrow understanding of scientific discoveries. He concludes that replicability is the weakest possible form of scientific reproduction, and that reproducibility does not require collecting the software and scripts (ie. replicating the experimental setup) used to obtain the experimental results published in papers.
+This paper reviews the current state of reproducible research and data management in the field of wildlife biology. Lewis et al. (2018) share the merits of reproducible research and take you through how the type and scale of data have changed in the field of wildlife biology in the last few years. This change, according to them, necessitates a shift to increased reproducibility and more rigorous data management. They provide various case studies showing how it can be implemented (which provides tangible examples to wrap your head around the concept). They also suggest various courses of action that would allow reproducibility and data management to be mainstream in the field, including education, usage of freely available software such as GitHub and willingness to share data. Finally, they also mention potential limitations to this form of research management in the field of wildlife biology specifically, but suggest that a broader shift to ensuring reproducible research will be holistically beneficial to the field.
 
-Drummond, C., 2009, June. Replicability is not reproducibility: nor is it good science. In Proceedings of the Evaluation Methods for Machine Learning Workshop at the 26th ICML (Vol. 1). Montreal, Canada: National Research Council of Canada.
+Link: https://doi.org/10.1002/wsb.847
 
-> Contributor: Rahima
+> Contributor: Connor
+
+---
+
