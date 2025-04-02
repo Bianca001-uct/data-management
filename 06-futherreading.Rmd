@@ -271,6 +271,16 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 ---
 
+## Research Culture is Broken; Open Science can Fix It | Rachael Ainsworth | TEDxMacclesfield
+
+Open science as a movement is a growing practice in which science is done in such a way that research is openly shared with the public and allows for collaboration, contribution and access to the latest findings and methods. This TED talk dives into some of the current downfalls of our modern research culture and show how open science could be the key to mitigating these problems.
+
+Link: https://youtu.be/c-bemNZ-IqA
+
+> Contributor: Timothy Muthama
+
+---
+
 ## Wilson et al. (2017) "Good enough practices in scientific computing"
 
 Computers are essential in science, yet many researchers lack basic computational skills, leading to lost data and inefficiencies. Just as lab work requires structured documentation, computational research needs organized data, clear workflows, and reproducibility.
@@ -292,4 +302,5 @@ Link: https://doi.org/10.1002/wsb.847
 > Contributor: Connor
 
 ---
+
 
