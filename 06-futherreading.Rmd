@@ -271,6 +271,18 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 ---
 
+## A beginners guide to producing reproducible research (Alston and Rick,2021)
+
+The “Replication crisis” is a research barrier that hinders the ability of scientific results being reproduced. This paper emphasises why we should strive towards reproducible research; the possible challenges and the continuous steps we can take to produce reproducible research. Reproducible research allows for quicker and easier analysis without the need to start from baseline. It also indicates transparency and trustworthiness to reviewers and scientific peers ,thus increasing citations thereof. This encourages follow-up studies and easy correction of mistakes. However complex biological systems might be more difficult to reproduce, and propriety programs prevent global accessibility. Historical software and hardware may also hinder the ability to access data.
+ There is a standard for reproducibility, and this includes ensuring reproducibility before, during and after analysis. The data should be backed up in multiple locations to prevent any data loss. The data should also be changed to “tidy” format to allow easy analysis and manipulation. During analysis, it is important that all operations be done using annotated scripts to allow for repetition. Thus, we should finally share this data and code with all its parameters to ensure public accessibility. In conclusion, reproducible research is a process and should be consistently strived for.
+
+References
+Alston, J.M. and Rick, J.A., 2021. A beginner’s guide to conducting reproducible research. Bulletin of the Ecological Society of America, 102(2), pp.1-14.
+
+> Contributor: Kauthar Ismail
+
+---
+
 ## Research Culture is Broken; Open Science can Fix It | Rachael Ainsworth | TEDxMacclesfield
 
 Open science as a movement is a growing practice in which science is done in such a way that research is openly shared with the public and allows for collaboration, contribution and access to the latest findings and methods. This TED talk dives into some of the current downfalls of our modern research culture and show how open science could be the key to mitigating these problems.
